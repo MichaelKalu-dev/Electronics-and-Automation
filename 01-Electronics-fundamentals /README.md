@@ -29,4 +29,4 @@ Develop a solid understanding of fundamental electrical and electronic principle
 
 Progress
 
-- [ ] Electronics fundamentals completed
+- [x] Electronics fundamentals completed
