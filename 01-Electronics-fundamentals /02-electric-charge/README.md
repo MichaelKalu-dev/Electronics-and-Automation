@@ -34,7 +34,7 @@ Q = 10e - 13e = -3e
 ]
 
 [
-Q = -4.806 \times 10^{-19}\ \text{C}
+Q = -4.806 X 10^{-19}C
 ]
 
 3. Methods of Charging
