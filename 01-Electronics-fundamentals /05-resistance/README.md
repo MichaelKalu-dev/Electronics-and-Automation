@@ -8,16 +8,16 @@ Factors Affecting Resistance
 
 For a uniform wire:
 
-[
-R = \rho\frac{L}{A}
-]
+Resistance = Resistivity × Length ÷ Cross-sectional Area
+
+R = ρ × L / A
 
 Where:
 
-- (R) = resistance (Ω)
-- (\rho) = resistivity of the material
-- (L) = length of the wire
-- (A) = cross-sectional area
+- R = Resistance (Ω)
+- ρ (rho) = Resistivity of the material
+- L = Length of the wire
+- A = Cross-sectional area of the wire
 
 Resistance generally:
 
@@ -28,59 +28,58 @@ Resistance generally:
 
 Ohm's Law
 
-[
-V = IR
-]
+Voltage = Current × Resistance
+
+V = I × R
 
 Rearranged to calculate current:
 
-[
-I = \frac{V}{R}
-]
+Current = Voltage ÷ Resistance
+
+I = V / R
 
 At constant voltage, increasing resistance decreases current.
 
 Electrical Power
 
-[
-P = VI
-]
+Power = Voltage × Current
 
-Using Ohm's law, power can also be calculated as:
+P = V × I
 
-[
-P = I^2R
-]
+Power can also be calculated using:
 
-[
-P = \frac{V^2}{R}
-]
+- P = I² × R
+- P = V² / R
 
-The appropriate formula depends on the known quantities and circuit conditions.
+Choose the formula based on the quantities known and the circuit conditions.
 
 Important Relationships
 
-- Constant voltage: increasing resistance decreases current and power dissipated by the resistor.
-- Constant current: increasing resistance requires a higher voltage and increases power dissipated by the resistor.
+- Constant voltage: Increasing resistance decreases current and power dissipated by the resistor.
+- Constant current: Increasing resistance requires a higher voltage and increases power dissipated by the resistor.
 
 Worked Example
 
 A 12 V supply is connected to an 8 Ω resistor.
 
-[
-I = \frac{12}{8} = 1.5\text{ A}
-]
+Step 1: Calculate current
 
-[
-P = \frac{12^2}{8} = 18\text{ W}
-]
+Current = Voltage ÷ Resistance
 
-Learning Outcome
+I = 12 / 8 = 1.5 A
+
+Step 2: Calculate power
+
+Power = Voltage² ÷ Resistance
+
+P = 12² / 8 = 144 / 8 = 18 W
+
+Learning Outcomes
 
 - Explain electrical resistance.
 - Identify the factors affecting resistance.
 - Apply Ohm's law.
-- Calculate power dissipated by a resistor.
+- Calculate electrical power dissipated by a resistor.
 - Distinguish constant-voltage and constant-current conditions.
 
 Progress
