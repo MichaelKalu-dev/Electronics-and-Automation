@@ -30,6 +30,8 @@ Yellow LED| 8
 
 Each LED uses an individual series resistor, with the circuit connected to GND.
 
+![Circuit Screenshot](circuit.png)
+
 System Behavior
 
 The controller repeats the following sequence continuously:
