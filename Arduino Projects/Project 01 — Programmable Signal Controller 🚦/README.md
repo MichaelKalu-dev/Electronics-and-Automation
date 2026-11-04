@@ -30,7 +30,7 @@ Yellow LED| 8
 
 Each LED uses an individual series resistor, with the circuit connected to GND.
 
-![Circuit Screenshot](circuit.png)
+![Circuit Screenshot](Circuit.jpg)
 
 System Behavior
 
