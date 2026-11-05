@@ -35,7 +35,7 @@ System Behavior
 
 Circuit Simulation
 
-"Button-Controlled Device Circuit" (circuit.png)
+"Button-Controlled Device Circuit" (Circuit.jpg)
 
 Arduino button-controlled device simulated in Tinkercad Circuits.
 
